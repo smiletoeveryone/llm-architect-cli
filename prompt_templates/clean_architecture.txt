@@ -1,0 +1,10 @@
+
+You're an expert software architect. I want to build a [project_type] in [language] using Clean Architecture.
+
+Please generate:
+1. A directory structure with the following layers: Domain, Application, Infrastructure, Interfaces.
+2. The entity and service logic for [component] (e.g., User/Auth).
+3. REST interface definition using [framework] (e.g., FastAPI/NestJS).
+4. Repository interface and test stub.
+
+Use SOLID principles. Return code only.
